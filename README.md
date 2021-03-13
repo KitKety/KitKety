@@ -6,7 +6,7 @@
   <h1> ✨ Bem vindo ao covil dos projetos privados e dos comits da madrugada. ✨ </h1>
 
   <p>
-    Esta conta esta destinada e estudos e projetos pessoais voltados para desenvolvimento web e mobile. 
+    Esta conta esta destinada e estudos e projetos pessoais voltados para desenvolvimento web e mobile. Caso voce, internauta aleatorio, esteja interessado em parcerias / network, pode entrar em contato :) 
   </p>
 
   <h3>Principais tecnologias:</h3>
@@ -62,7 +62,4 @@
       </details>
     </div>
   </div>
-
-  <hr>
-  <p> 💬 Caso voce, internauta aleatorio, esteja interessado em parcerias / network, pode entrar em contato :) </p>
 </body>
