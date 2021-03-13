@@ -1,3 +1,7 @@
+<head>
+  <link rel="styleshhet" href="style.css">
+</head>
+<body>
 <h1> ✨ Bem vindo ao covil dos projetos privados e dos comits da madrugada. ✨ </h1>
 
 <p>
@@ -5,9 +9,9 @@
 </p>
 
 <h3>Principais tecnologias:</h3>
-<div style="display: flex; justify-content: space-between;">
+<div class="skills">
   
-  <div style="min-width:300px">
+  <div class="skill">
     <details open>
       <summary>WEB</summary>
       <ul>
@@ -19,7 +23,7 @@
       </ul>
     </details>
   </div>
-  <div style="min-width:300px">
+  <div class="skill">
     <details open>
       <summary>Frameworks Front-end</summary>
       <ul>
@@ -61,3 +65,4 @@
 <hr>
 
 <p> 💬 Caso voce, internauta aleatorio, esteja interessado em parcerias / network, pode entrar em contato :) </p>
+</body>
