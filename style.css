@@ -1,0 +1,10 @@
+<style>
+  div.skills {
+    display: flex; 
+    justify-content: space-between;
+  }
+  
+  div.skill {
+    min-width:300px;
+  }
+</style>
