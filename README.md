@@ -3,44 +3,53 @@
 <p>
   Esta conta esta destinada e estudos e projetos pessoais voltados para desenvolvimento web e mobile. 
 </p>
-<ul>
-  Principais tecnologias:
-  <!-- trabalhando -->
-  <li>
-    <img src="./assets/html5.png" width="50" heigth="50" alt="Logo HTML 5" />
-  </li>
-  <li>
-    <img src="./assets/css3.png" width="50" heigth="50" alt="Logo CSS 3" />
-  </li>
-   <li>
-    <img src="./assets/sass.png" width="50" heigth="50" alt="Logo Sass" />
-  </li>
-  <li>
-    <img src="./assets/javascript.png" width="50" heigth="50" alt="Logo Javascript" />
-  </li>
-   <li>
-    <img src="./assets/jquery.jpg" width="50" heigth="50" alt="Logo JQuery" />
-  </li>
-   <li>
-    <img src="./assets/bootstrap.png" width="50" heigth="50" alt="Logo Bootstrap" />
-  </li>
-   <li>
-    <img src="./assets/cakephp.png" width="50" heigth="50" alt="Logo Cakephp" />
-  </li>
-  <!-- estudando -->
-   <li>
-    <img src="./assets/php.jpg" width="50" heigth="50" alt="Logo PHP" />
-  </li>
-  <li>
-    <img src="./assets/typescript.png" width="50" heigth="50" alt="Logo TypeScript" />
-  </li>
-  <li>
-    <img src="./assets/react.jpg" width="50" heigth="50" alt="Logo React / React Native" />
-  </li>
-  <li>
-    <img src="./assets/nodejs.png" width="50" heigth="50" alt="Logo Node JS" />
-  </li>
-</ul>
+
+<h3>Principais tecnologias:</h3>
+
+<details open>
+  <summary>WEB</summary>
+  <ul>
+    <li>HTML 5</li>
+    <li>CSS 3</li>
+    <li>Sass</li>
+    <li>Javascript / Typescript</li>
+    <li>PHP (Cakephp)</li>
+  </ul>
+</details>
+
+<details open>
+  <summary>Frameworks Front-end</summary>
+  <ul>
+    <li>JQuery</li>
+    <li>Bootstrap</li>
+  </ul>
+</details>
+
+<details open>
+  <summary>Frameworks Javascript</summary> 
+  <ul>
+    <li>React</li>
+    <li>React Native</li>
+    <li>Angular</li>
+    <li>Express</li>
+  </ul>
+ </details>
+
+<details open>
+  <summary>Controle de versao</summary> 
+  <ul>
+    <li>GitHub</li>
+    <li>GitLab</li>
+  </ul>
+</details>
+
+<details open>
+  <summary>Mobile</summary> 
+  <ul>
+    <li>Java</li>
+    <li>Kotlin</li>
+  </ul>
+</details>
 
 <hr>
 
