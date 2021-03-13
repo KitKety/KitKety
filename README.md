@@ -1,5 +1,5 @@
 <head>
-  <link rel="styleshhet" href="style.css">
+  <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
 <h1> ✨ Bem vindo ao covil dos projetos privados e dos comits da madrugada. ✨ </h1>
