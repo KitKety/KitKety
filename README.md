@@ -32,7 +32,7 @@
       </ul>
     </details>
 </div>
-  <div style="min-width:300px">
+  <div class="skill">
     <details open>
       <summary>Frameworks Javascript</summary> 
       <ul>
@@ -43,7 +43,7 @@
       </ul>
      </details>
 </div>
-  <div style="min-width:300px">
+  <div class="skill">
     <details open>
       <summary>Controle de versao</summary> 
       <ul>
@@ -52,7 +52,7 @@
       </ul>
     </details>
 </div>
-  <div style="min-width:300px">
+  <div class="skill">
     <details open>
       <summary>Mobile</summary> 
       <ul>
