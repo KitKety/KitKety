@@ -5,51 +5,58 @@
 </p>
 
 <h3>Principais tecnologias:</h3>
-
-<details open>
-  <summary>WEB</summary>
-  <ul>
-    <li>HTML 5</li>
-    <li>CSS 3</li>
-    <li>Sass</li>
-    <li>Javascript / Typescript</li>
-    <li>PHP (Cakephp)</li>
-  </ul>
-</details>
-
-<details open>
-  <summary>Frameworks Front-end</summary>
-  <ul>
-    <li>JQuery</li>
-    <li>Bootstrap</li>
-  </ul>
-</details>
-
-<details open>
-  <summary>Frameworks Javascript</summary> 
-  <ul>
-    <li>React</li>
-    <li>React Native</li>
-    <li>Angular</li>
-    <li>Express</li>
-  </ul>
- </details>
-
-<details open>
-  <summary>Controle de versao</summary> 
-  <ul>
-    <li>GitHub</li>
-    <li>GitLab</li>
-  </ul>
-</details>
-
-<details open>
-  <summary>Mobile</summary> 
-  <ul>
-    <li>Java</li>
-    <li>Kotlin</li>
-  </ul>
-</details>
+<div style="display: flex; justify-content: space-between;">
+  
+  <div style="min-width:300px">
+    <details open>
+      <summary>WEB</summary>
+      <ul>
+        <li>HTML 5</li>
+        <li>CSS 3</li>
+        <li>Sass</li>
+        <li>Javascript / Typescript</li>
+        <li>PHP (Cakephp)</li>
+      </ul>
+    </details>
+  </div>
+  <div style="min-width:300px">
+    <details open>
+      <summary>Frameworks Front-end</summary>
+      <ul>
+        <li>JQuery</li>
+        <li>Bootstrap</li>
+      </ul>
+    </details>
+</div>
+  <div style="min-width:300px">
+    <details open>
+      <summary>Frameworks Javascript</summary> 
+      <ul>
+        <li>React</li>
+        <li>React Native</li>
+        <li>Angular</li>
+        <li>Express</li>
+      </ul>
+     </details>
+</div>
+  <div style="min-width:300px">
+    <details open>
+      <summary>Controle de versao</summary> 
+      <ul>
+        <li>GitHub</li>
+        <li>GitLab</li>
+      </ul>
+    </details>
+</div>
+  <div style="min-width:300px">
+    <details open>
+      <summary>Mobile</summary> 
+      <ul>
+        <li>Java</li>
+        <li>Kotlin</li>
+      </ul>
+    </details>
+</div>
 
 <hr>
 
