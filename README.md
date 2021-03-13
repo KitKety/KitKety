@@ -11,7 +11,6 @@
 
   <h3>Principais tecnologias:</h3>
   <div class="skills">
-
     <div class="skill">
       <details open>
         <summary>WEB</summary>
@@ -24,7 +23,6 @@
         </ul>
       </details>
     </div>
-  
     <div class="skill">
       <details open>
         <summary>Frameworks Front-end</summary>
@@ -34,7 +32,6 @@
         </ul>
       </details>
     </div>
-
     <div class="skill">
       <details open>
         <summary>Frameworks Javascript</summary> 
@@ -46,7 +43,6 @@
         </ul>
        </details>
     </div>
-  
     <div class="skill">
       <details open>
         <summary>Controle de versao</summary> 
@@ -56,7 +52,6 @@
         </ul>
       </details>
     </div>
-
     <div class="skill">
       <details open>
         <summary>Mobile</summary> 
@@ -66,7 +61,6 @@
         </ul>
       </details>
     </div>
-
   </div>
 
   <hr>
