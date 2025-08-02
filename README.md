@@ -60,7 +60,7 @@ Opportunities for work and study make me aware of some technologies, here is a l
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![GChat](https://img.shields.io/badge/chat-google%20chat-8c9eff?logo=google-chat&logoColor=36a834&style=for-the-badge)
+![GChat](https://img.shields.io/badge/google%20chat-36a834?logo=google-chat&logoColor=ffffff&style=for-the-badge)
 
 ## 📊 Stats
 [![GitHub stats](https://github-readme-stats-kitkety.vercel.app/api?username=KitKety&show_icons=true&theme=shadow_blue)](https://github.com/KitKety/github-readme-stats)
