@@ -8,7 +8,7 @@ I like to study (really).
 
 Getting a new certificate makes me proud and give me more confidence to improve my projects. Finish a book? Same thing! And I love that feeling.
 
-I am currently graduated from Unipar College, specifically in the Information Systems course.
+I am currently graduated from Unipar College, specifically in the Information Systems course. I also had some certifications in Software Quality from ISTQB and now I am studying a specialization in Product Management.
 
 ## 💡Knowledge
 Opportunities for work and study make me aware of some technologies, here is a list of them:
