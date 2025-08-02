@@ -42,7 +42,7 @@ Opportunities for work and study make me aware of some technologies, here is a l
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
+![SQLite](https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=fff&style=for-the-badge)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 ### IDE / Code Editors
@@ -60,6 +60,7 @@ Opportunities for work and study make me aware of some technologies, here is a l
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![GChat](https://img.shields.io/badge/chat-google%20chat-8c9eff?logo=google-chat&logoColor=36a834&style=for-the-badge)
 
 ## 📊 Stats
 [![GitHub stats](https://github-readme-stats-kitkety.vercel.app/api?username=KitKety&show_icons=true&theme=shadow_blue)](https://github.com/KitKety/github-readme-stats)
